@@ -1,15 +1,14 @@
-# <<Título principal: Mi ficha de Markdown>>
-
+# TMEV: FICHA PERSONAL
 ## 👤 Presentación
-Hola, soy **<< deybid felipe castillo valencia >>** y esta es mi primera ficha en Markdown.
+Hola, soy ** deybid felipe castillo valencia ** y esta es mi primera ficha en Markdown.
 
 ### 🎯 Objetivo de esta ficha
 Aprender a escribir documentos claros y bonitos usando Markdown.
 
-- **Negrita:** <<escribe una frase en negrita>>
-- *Cursiva:* <<escribe una frase en cursiva>>
-- ~~Tachado:~~ <<escribe algo que ya no aplica>>
-- Resaltado (si tu plataforma lo soporta): ==<<texto resaltado>>==
+- **Negrita:** **escribe una frase en negrita**
+- *Cursiva:* *escribe una frase en cursiva*
+- ~~Tachado:~~ ~~escribe algo que ya no aplica~~ 
+- Resaltado (si tu plataforma lo soporta): ==texto resaltado==
 - Código en línea: `print("Hola Markdown")`
 
 ## ✅ Listas útiles
@@ -26,29 +25,29 @@ Aprender a escribir documentos claros y bonitos usando Markdown.
 4. Publicar
 
 ### Checklist
-- [ ] Agregué títulos
-- [ ] Agregué links
-- [ ] Agregué una imagen
-- [ ] Agregué emojis
-- [ ] Revisé que se vea bonito
+- [x] Agregué títulos
+- [x] Agregué links
+- [x] Agregué una imagen
+- [x] Agregué emojis
+- [x] Revisé que se vea bonito
 
 ## 🔗 Enlaces
 
 Mi página favorita para aprender:
-- [<< Elrincondelvago >>](<<https://www.rincondelvago.com/>>)
+- [Elrincondelvago](https://www.rincondelvago.com/)
 
 Un video recomendado:
-- [<< EL JEFE FINAL !! - Five Nights at Freddy's 4 | Fernanfloo
- >>](<<https://www.youtube.com/watch?v=fDMLb-owurE>>)
+- [EL JEFE FINAL !! - Five Nights at Freddy's 4 | Fernanfloo
+](https://www.youtube.com/watch?v=fDMLb-owurE)
 
  ## 🖼️ Imagen
 
-![Imagen de ejemplo](<<https://yt3.googleusercontent.com/ytc/AIdro_kxkrHE7hOdSg005m6_Lr4A-8cj9qhs2cK4hb6fyOy18FA=s900-c-k-c0x00ffffff-no-rj>>)
+![holasoygerman](https://yt3.googleusercontent.com/ytc/AIdro_kxkrHE7hOdSg005m6_Lr4A-8cj9qhs2cK4hb6fyOy18FA=s900-c-k-c0x00ffffff-no-rj)
 
 ## 🌈 Emojis con intención
 
-Hoy me siento: <<🙂 / 😎 / 🤖 / 🚀 etc.>>
-Mis herramientas favoritas: <<💻 🧠 🔧>>
+Hoy me siento: 🙂 / 😎 / 🤖 / 🚀 etc.
+Mis herramientas favoritas: 💻 🧠 🔧
 
 ## 🧩 Bloques para un buen diseño
 
